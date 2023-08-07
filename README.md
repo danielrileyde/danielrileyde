@@ -10,7 +10,7 @@ I'm, currently studying the full-stack web development bootcamp at [Spiced-Acade
   - Type Design
   - Python
 
-## My Skills in 3 months 🤞
+## My Skills in 3 Months 🤞
   - HTML & CSS
   - JavaScript
   - Git & GitHub

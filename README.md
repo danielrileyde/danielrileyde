@@ -1,15 +1,15 @@
 ## Hi there, I'm Daniel 👋
 
-### A Berlin-based Type Designer & Full-Stack student
+### A Berlin-based Type Designer & Junior Full-Stack Developer
 
-I'm, currently studying the full-stack web development bootcamp at [Spiced-Academy](https://www.spiced-academy.com/en/program/full-stack-web-development).
+I'm currently studying the full-stack web development bootcamp at [Spiced-Academy](https://www.spiced-academy.com/en/program/full-stack-web-development).
 
 #### My Skills
 
   - Type Design
   - Python
   - Graphic Design
-  - Riding a 🚲
+  - <p><a href="https://giphy.com/gifs/cycling-post-it-note-trickartt-jhLEOwTuBE0be8KdtQ">Riding my Bike</a></p>
 
 #### My Stack in 3 Months 🤞
 
@@ -18,6 +18,9 @@ I'm, currently studying the full-stack web development bootcamp at [Spiced-Acade
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![React.js](https://img.shields.io/badge/-React.js-%23282C34?style=flat-square&logo=react)
 ![Next.js](https://img.shields.io/badge/-Next.js-%23000000?style=flat-square&logo=nextdotjs)
+![MongoDB](https://img.shields.io/badge/-MongoDB-%23282C34?style=flat-square&logo=mongodb)
+![Git](https://img.shields.io/badge/-git-%23000000?style=flat-square&logo=git)
+
 
 #### Connect with me
 

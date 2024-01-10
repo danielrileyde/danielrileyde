@@ -8,11 +8,9 @@ I'm currently studying the full-stack web development bootcamp at [Spiced-Academ
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=react,ts,js,nextjs,nodejs,p5js,html,css" />
   </a>
 </p>
-
-[![My Skills](https://skillicons.dev/icons?i=react,ts,js,html,css,nextjs,nodejs,p5js,py,jest)](https://skillicons.dev)
 
 **Design Skills:**
 

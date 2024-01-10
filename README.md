@@ -2,8 +2,6 @@
 
 ### A Berlin-based junior full-stack engineer with a degree in graphic deisgn.
 
-I'm currently studying the full-stack web development bootcamp at [Spiced-Academy](https://www.spiced-academy.com/en/program/full-stack-web-development).
-
 **Currently working with:**
 
 <p align="center">

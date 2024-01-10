@@ -28,5 +28,10 @@
 
 **Connect with me:**
 
-[![My Skills](https://skillicons.dev/icons?i=github,linkedin)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=github,linkedin" />
+  </a>
+</p>
+
 

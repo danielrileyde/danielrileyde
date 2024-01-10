@@ -1,15 +1,16 @@
-## Hi there, I'm Daniel 👋
+## Hi there, I'm Daniel Riley-Dittmann 👋
 
-### A Berlin-based Type Designer & Junior Full-Stack Developer
+### A Berlin-based junior full-stack developer with a degree in graphic deisgn.
 
 I'm currently studying the full-stack web development bootcamp at [Spiced-Academy](https://www.spiced-academy.com/en/program/full-stack-web-development).
 
-#### My Skills
+**Currently working with:**
 
-  - Type Design
-  - Python
-  - Graphic Design
-  - <p><a href="https://giphy.com/gifs/cycling-post-it-note-trickartt-jhLEOwTuBE0be8KdtQ">Riding my Bike</a></p>
+<a href="https://reactjs.org/" title="React"><img src="icons/react.png" /></a>
+<a href="https://www.typescriptlang.org/" title="TypeScript"><img src="icons/typescript.png" /></a>
+<a href="https://en.wikipedia.org/wiki/JavaScript" title="JavaScript"><img src="icons/javascript.png" /></a>
+<a href="https://github.com/" title="GitHub"><img src="icons/github.png" /></a>
+<a href="https://www.python.org/" title="Python"><img src="icons/python.png" /></a>
 
 #### My Stack in 3 Months 🤞
 

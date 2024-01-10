@@ -6,7 +6,7 @@ I'm currently studying the full-stack web development bootcamp at [Spiced-Academ
 
 **Currently working with:**
 
-[![My Skills](https://skillicons.dev/icons?i=react,ts,js,html,css,nextjs,nodejs,p5js,py)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,ts,js,html,css,nextjs,nodejs,p5js,py,jest)](https://skillicons.dev)
 
 **Design Skills:**
 

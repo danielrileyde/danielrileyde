@@ -14,12 +14,19 @@ I'm currently studying the full-stack web development bootcamp at [Spiced-Academ
 
 **Design Skills:**
 
-[![My Skills](https://skillicons.dev/icons?i=figma,ps,ai,sketch)](https://skillicons.dev)
-
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=figma,ai,ps" />
+  </a>
+</p>
 
 **Software I want to learn:**
 
-[![My Skills](https://skillicons.dev/icons?i=solidity)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=solidity,rust" />
+  </a>
+</p>
 
 **Connect with me:**
 

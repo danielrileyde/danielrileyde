@@ -10,7 +10,7 @@ I'm currently studying the full-stack web development bootcamp at [Spiced-Academ
 
 **Design Skills:**
 
-[![My Skills](https://skillicons.dev/icons?i=figma,ps,ai,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=figma,ps,ai,sketch)](https://skillicons.dev)
 
 
 **Software I want to learn:**

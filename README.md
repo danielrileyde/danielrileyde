@@ -19,8 +19,7 @@ I'm currently studying the full-stack web development bootcamp at [Spiced-Academ
 ![Git](https://img.shields.io/badge/-git-%23000000?style=flat-square&logo=git)
 
 
-#### Connect with me
+**Connect with me:**
 
-![GitHub followers](https://img.shields.io/github/followers/danielrileyde?label=Follow&style=social)
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://de.linkedin.com/in/danielrileyde)
+[![My Skills](https://skillicons.dev/icons?i=github,linkedin)](https://skillicons.dev)
 

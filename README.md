@@ -1,4 +1,4 @@
-## Hi there, I'm Daniel Riley-Dittmann 👋
+## Hello there, I'm Daniel Riley-Dittmann 👋
 
 ### A Berlin-based junior full-stack engineer with a degree in graphic design.
 

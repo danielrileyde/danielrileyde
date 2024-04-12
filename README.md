@@ -5,7 +5,7 @@
 **Codewars Rank:**
 
 <p align="center">
-  <img src="https://www.codewars.com/users/danielrileyde/badges/small" alt="Codewars Badge">
+  <img src="https://www.codewars.com/users/danielrileyde/badges/large" alt="Codewars Badge">
 </p>
 
 **Currently working with:**

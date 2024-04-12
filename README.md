@@ -4,9 +4,7 @@
 
 **Codewars Rank:**
 
-<p>
-<img ![image](https://www.codewars.com/users/danielrileyde/badges/large) />
-</p>
+<p ![image](https://www.codewars.com/users/danielrileyde/badges/large) />
 
 **Currently working with:**
 

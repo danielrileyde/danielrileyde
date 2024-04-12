@@ -1,7 +1,7 @@
 ## Hello there, I'm Daniel Riley-Dittmann 👋   ![image](https://www.codewars.com/users/danielrileyde/badges/large)
 
 
-### A Berlin-based junior full-stack engineer and type designer.
+### A Berlin-based junior full-stack engineer and experienced type designer.
 
 **Currently working with:**
 

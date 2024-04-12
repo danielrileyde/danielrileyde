@@ -2,6 +2,7 @@
 
 ### A Berlin-based junior full-stack engineer and experienced type designer. 
 
+**Codewars Rank:**
 
 <p align="center">
   <img src="https://www.codewars.com/users/danielrileyde/badges/small" alt="Codewars Badge">

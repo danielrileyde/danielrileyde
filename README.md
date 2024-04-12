@@ -2,7 +2,7 @@
 
 ### A Berlin-based junior full-stack engineer with a degree in graphic design.
 
-*** Codewars Rank
+**Codewars Rank:**
 
 <p align="center">
 ![image](https://www.codewars.com/users/danielrileyde/badges/large)>

@@ -1,7 +1,12 @@
 ## Hello there, I'm Daniel Riley-Dittmann 👋
 
 ### A Berlin-based junior full-stack engineer with a degree in graphic design.
-### Codewars ![image](https://www.codewars.com/users/danielrileyde/badges/large)
+
+*** Codewars Rank
+
+<p align="center">
+![image](https://www.codewars.com/users/danielrileyde/badges/large)>
+</p>
 
 **Currently working with:**
 

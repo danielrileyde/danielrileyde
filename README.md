@@ -2,8 +2,9 @@
 
 ### A Berlin-based junior full-stack engineer and experienced type designer. 
 
+
 <p align="center">
-  ![image](https://www.codewars.com/users/danielrileyde/badges/small)
+  <img src="https://www.codewars.com/users/danielrileyde/badges/small" alt="Codewars Badge">
 </p>
 
 **Currently working with:**

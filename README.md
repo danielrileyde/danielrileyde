@@ -35,7 +35,7 @@
 **Connect with me:**
 
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="linkedin.com/in/danielrileyde/">
     <img src="https://skillicons.dev/icons?i=github,linkedin" />
   </a>
 </p>
